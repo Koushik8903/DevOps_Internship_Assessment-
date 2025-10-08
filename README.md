@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Next.js + Docker + GHCR + Minikube
 
 A minimal Next.js app containerized with Docker, built and pushed to GitHub Container Registry (GHCR) via GitHub Actions, and deployed to Kubernetes (Minikube) using manifests.
@@ -117,3 +118,6 @@ minikube service nextjs-service --url
 - The Dockerfile uses Next.js `output: 'standalone'` for a small runtime image.
 - The workflow uses metadata-action for deterministic tags (`latest` and commit SHA).
 - For simplicity, NodePort is used. You could also use the Minikube Ingress addon for a friendlier URL.
+=======
+# DevOps_Internship_Assessment-
+>>>>>>> 1ffb9a6228bd9fd61a7912a2b05cefd562c9cd98
