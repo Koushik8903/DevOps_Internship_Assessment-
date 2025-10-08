@@ -1,0 +1,17 @@
+node_modules
+.next
+.git
+.gitignore
+Dockerfile
+README.md
+npm-debug.log*
+yarn-debug.log*
+.pnpm-debug.log*
+.dockerignore
+
+# Build output
+out
+build
+
+# VCS
+.github
